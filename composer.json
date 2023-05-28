@@ -1,0 +1,13 @@
+{
+    "name": "wowpack/php-database",
+    "description": "PHP database operational package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wowpack\\Database\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
